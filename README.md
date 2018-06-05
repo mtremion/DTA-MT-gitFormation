@@ -3,7 +3,7 @@
 #### Quelques commandes Git
 
 1. **git log** permet d'afficher l'historique des commits. 
-2. ***git add** *file.txt* permet d'ajouter le fichier file.txt à 
+2. **git add** *file.txt* permet d'ajouter le fichier file.txt à 
 l'index.
 3. **git diff** *file.txt* permet de voir les modifications réalisés sur 
 un fichier.
@@ -18,5 +18,5 @@ le site : [cliquez ici](https://git-scm.com/docs)
 
 Merci pour votre lecture ! :+1:
 
-![GitHub Logo](C:\Users\mtremion\Desktop\Git\logo)
+![GitHub Logo](C:\Users\mtremion\Desktop\Git\gitFormation\logo)
 
