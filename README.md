@@ -20,3 +20,4 @@ Merci pour votre lecture ! :+1:
 
 ![GitHub Logo](C:\Users\mtremion\Desktop\Git\gitFormation\logo)
 
+![GitHub Logo](logo.png)
